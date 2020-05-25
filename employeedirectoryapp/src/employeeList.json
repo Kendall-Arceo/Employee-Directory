@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Raymond",
+      "job": "developer cat",
+      "pay": 125
+    },
+    {
+      "name": "Kendall",
+      "job": "Web designer",
+      "pay": 90
+    },
+    {
+      "name": "Joseph",
+      "job": "engineer",
+      "pay": 85
+    },
+    {
+      "name": "Andrea",
+      "job": "UI/UX Designer",
+      "pay": 200
+    },
+    {
+      "name": "Hiro",
+      "job": "professor dog",
+      "pay": 250
+    }
+  ]
